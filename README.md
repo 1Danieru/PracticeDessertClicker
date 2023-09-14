@@ -1,29 +1,5 @@
-Dessert Clicker app
-=====================
+<h1 align="center"> Practice: Add a ViewModel to Dessert Clicker </h1>
 
-Code for Android Basics with Compose Codelab.
-
-Introduction
-------------
-
-Dessert Clicker is a game about making desserts.
-
-Press the button, make a dessert, earn the big bucks.
-
-You use this app in the course to explore the Android lifecycle and log messages to
-the Android console (Logcat).
-
-Pre-requisites
---------------
-
-You need to know:
-- How to open, build, and run apps with Android Studio.
-- What an activity is, and how to create one in your app.
-- What the activity's onCreate() method does, and the kind of operations
-  that are performed in that method.
-
-
-Getting Started
----------------
-
-1. Download and run the app.
+<p align="center">
+  <a href="https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-1">Practice: Add a ViewModel to Dessert Clicker</a>
+</p>
